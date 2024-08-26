@@ -1,0 +1,5 @@
+/bootstrap/ssr
+/node_modules
+/vendor
+.env.backup
+.env.production
